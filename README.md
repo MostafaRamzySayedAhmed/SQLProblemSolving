@@ -1,1 +1,1 @@
-**Practical Exercising on Solving Real-World Problems Using SQL**
+**Practical Exercising on Solving Real-World Problems Using SQL**.
